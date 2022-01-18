@@ -53,7 +53,7 @@ The following machine learning algorithms were used to predict sales:
 
 * k-Means;
 * Gaussian Mixture Models (GMM);
-* Hierarchical CLustering;
+* Hierarchical Clustering;
 
 ## 06 MACHINE LEARNING MODEL PERFORMANCE
 
