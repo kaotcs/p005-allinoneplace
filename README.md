@@ -2,8 +2,8 @@
 
 Create a loyalty program to the high-value customers by clusternig.
 
-<img src="https://github.com/kaotcs/rossmann_sales_prediction/blob/main/img/rossmann_.jpg" alt="Rossmann Store"
-	title="Rossmann"  width="100%" height="500" />
+<img src="https://github.com/kaotcs/p005-allinoneplace/blob/main/img/785054-ecommerce-istock-020119.jpg" alt="All in one place"
+	title="AIOP"  width="100%" height="500" />
 
 ## 01 BUSINESS PROBLEM
 A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel.
@@ -59,8 +59,8 @@ The following machine learning algorithms were used to predict sales:
 
 The silhouette score for each model is indicated bellow:
 
-<img src="https://raw.githubusercontent.com/kaotcs/rossmann_sales_prediction/main/img/ml_performance.jpg" alt="ML peformance"
-	title="Rossmann"/>
+<img src="https://github.com/kaotcs/p005-allinoneplace/blob/main/img/silhouette.jpg" alt="ML peformance"
+	title="AIOP"/>
 
 ## 07 DEPLOYMENT
 It was used AWS plataform (S3, RDS and EC2) to deploy the result of this clustering. The insiders clusters data can be visualized at Metabase platform. (Link will be available soon)
