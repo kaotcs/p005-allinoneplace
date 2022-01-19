@@ -1,6 +1,6 @@
 # All in One Place
 
-Create a loyalty program to the high-value customers by clusternig.
+Create a loyalty program to the high-value customers by clustering.
 
 <img src="https://github.com/kaotcs/p005-allinoneplace/blob/main/img/785054-ecommerce-istock-020119.jpg" alt="All in one place"
 	title="AIOP"  width="100%" height="500" />
